@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/passwordcreater/static/css/main.a6228e9d.chunk.css",
+    "main.js": "/passwordcreater/static/js/main.ea2ea512.chunk.js",
+    "main.js.map": "/passwordcreater/static/js/main.ea2ea512.chunk.js.map",
+    "runtime-main.js": "/passwordcreater/static/js/runtime-main.36472701.js",
+    "runtime-main.js.map": "/passwordcreater/static/js/runtime-main.36472701.js.map",
+    "static/js/2.8789e8f1.chunk.js": "/passwordcreater/static/js/2.8789e8f1.chunk.js",
+    "static/js/2.8789e8f1.chunk.js.map": "/passwordcreater/static/js/2.8789e8f1.chunk.js.map",
+    "index.html": "/passwordcreater/index.html",
+    "static/css/main.a6228e9d.chunk.css.map": "/passwordcreater/static/css/main.a6228e9d.chunk.css.map",
+    "static/js/2.8789e8f1.chunk.js.LICENSE.txt": "/passwordcreater/static/js/2.8789e8f1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36472701.js",
+    "static/js/2.8789e8f1.chunk.js",
+    "static/css/main.a6228e9d.chunk.css",
+    "static/js/main.ea2ea512.chunk.js"
+  ]
+}
